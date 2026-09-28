@@ -367,23 +367,9 @@
 | `yudao-server`        | 管理后台 + 用户 APP 的服务端 |
 | `yudao-module-system` | 系统功能的 Module 模块    |
 | `yudao-module-infra`  | 基础设施的 Module 模块    |
-| `yudao-module-bpm`    | 工作流程的 Module 模块    |
 | `yudao-module-pay`    | 支付系统的 Module 模块    |
-| `yudao-module-report` | 大屏报表 Module 模块     |
-| `yudao-module-mp`     | 微信公众号的 Module 模块   |
 | `yudao-module-mall`   | 商城系统的 Module 模块    |
 | `yudao-module-member` | 会员中心的 Module 模块    |
-| `yudao-module-erp`    | ERP 系统的 Module 模块  |
-| `yudao-module-wms`    | WMS 系统的 Module 模块  |
-| `yudao-module-crm`    | CRM 系统的 Module 模块  |
-| `yudao-module-mes`    | MES 系统的 Module 模块  |
-| `yudao-module-hrm`    | HRM 人力资源管理的 Module 模块 |
-| `yudao-module-fms`    | FMS 财务管理的 Module 模块 |
-| `yudao-module-pms`    | PMS 项目管理的 Module 模块 |
-| `yudao-module-oa`     | OA 协同办公的 Module 模块 |
-| `yudao-module-ai`     | AI 大模型的 Module 模块  |
-| `yudao-module-iot`    | IoT 物联网的 Module 模块 |
-| `yudao-module-im`     | IM 即时通讯的 Module 模块 |
 
 ### 框架
 

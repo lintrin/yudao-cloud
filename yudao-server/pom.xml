@@ -39,29 +39,10 @@
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
 
-        <!-- 数据报表。默认注释，保证编译速度 -->
-<!--        <dependency>-->
-<!--            <groupId>cn.iocoder.cloud</groupId>-->
-<!--            <artifactId>yudao-module-report-server</artifactId>-->
-<!--            <version>${revision}</version>-->
-<!--        </dependency>-->
-        <!-- 工作流。默认注释，保证编译速度 -->
-<!--        <dependency>-->
-<!--            <groupId>cn.iocoder.cloud</groupId>-->
-<!--            <artifactId>yudao-module-bpm-server</artifactId>-->
-<!--            <version>${revision}</version>-->
-<!--        </dependency>-->
         <!-- 支付服务。默认注释，保证编译速度 -->
 <!--        <dependency>-->
 <!--            <groupId>cn.iocoder.cloud</groupId>-->
 <!--            <artifactId>yudao-module-pay-server</artifactId>-->
-<!--            <version>${revision}</version>-->
-<!--        </dependency>-->
-
-        <!-- 微信公众号模块。默认注释，保证编译速度 -->
-<!--        <dependency>-->
-<!--            <groupId>cn.iocoder.cloud</groupId>-->
-<!--            <artifactId>yudao-module-mp-server</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
 
@@ -84,83 +65,6 @@
 <!--        <dependency>-->
 <!--            <groupId>cn.iocoder.cloud</groupId>-->
 <!--            <artifactId>yudao-module-statistics-server</artifactId>-->
-<!--            <version>${revision}</version>-->
-<!--        </dependency>-->
-
-        <!-- CRM 相关模块。默认注释，保证编译速度 -->
-<!--        <dependency>-->
-<!--            <groupId>cn.iocoder.cloud</groupId>-->
-<!--            <artifactId>yudao-module-crm-server</artifactId>-->
-<!--            <version>${revision}</version>-->
-<!--        </dependency>-->
-
-        <!-- ERP 相关模块。默认注释，保证编译速度 -->
-<!--        <dependency>-->
-<!--            <groupId>cn.iocoder.cloud</groupId>-->
-<!--            <artifactId>yudao-module-erp-server</artifactId>-->
-<!--            <version>${revision}</version>-->
-<!--        </dependency>-->
-
-        <!-- AI 大模型相关模块。默认注释，保证编译速度 -->
-<!--        <dependency>-->
-<!--            <groupId>cn.iocoder.cloud</groupId>-->
-<!--            <artifactId>yudao-module-ai-server</artifactId>-->
-<!--            <version>${revision}</version>-->
-<!--        </dependency>-->
-
-        <!-- IoT 物联网相关模块。默认注释，保证编译速度 -->
-<!--        <dependency>-->
-<!--            <groupId>cn.iocoder.cloud</groupId>-->
-<!--            <artifactId>yudao-module-iot-server</artifactId>-->
-<!--            <version>${revision}</version>-->
-<!--        </dependency>-->
-
-        <!-- MES 制造执行系统相关模块 -->
-<!--        <dependency>-->
-<!--            <groupId>cn.iocoder.cloud</groupId>-->
-<!--            <artifactId>yudao-module-mes-server</artifactId>-->
-<!--            <version>${revision}</version>-->
-<!--        </dependency>-->
-
-        <!-- WMS 仓库管理模块 -->
-<!--        <dependency>-->
-<!--            <groupId>cn.iocoder.cloud</groupId>-->
-<!--            <artifactId>yudao-module-wms-server</artifactId>-->
-<!--            <version>${revision}</version>-->
-<!--        </dependency>-->
-
-        <!-- IM 即时通讯模块 -->
-<!--        <dependency>-->
-<!--            <groupId>cn.iocoder.cloud</groupId>-->
-<!--            <artifactId>yudao-module-im-server</artifactId>-->
-<!--            <version>${revision}</version>-->
-<!--        </dependency>-->
-
-        <!-- HRM 人力资源管理模块。默认注释，按需启用 -->
-<!--        <dependency>-->
-<!--            <groupId>cn.iocoder.cloud</groupId>-->
-<!--            <artifactId>yudao-module-hrm-server</artifactId>-->
-<!--            <version>${revision}</version>-->
-<!--        </dependency>-->
-
-        <!-- FMS 财务管理模块。默认注释，按需启用 -->
-<!--        <dependency>-->
-<!--            <groupId>cn.iocoder.cloud</groupId>-->
-<!--            <artifactId>yudao-module-fms-server</artifactId>-->
-<!--            <version>${revision}</version>-->
-<!--        </dependency>-->
-
-        <!-- PMS 项目管理模块。默认注释，按需启用 -->
-<!--        <dependency>-->
-<!--            <groupId>cn.iocoder.cloud</groupId>-->
-<!--            <artifactId>yudao-module-pms-server</artifactId>-->
-<!--            <version>${revision}</version>-->
-<!--        </dependency>-->
-
-        <!-- OA 办公自动化模块。默认注释，保证编译速度 -->
-<!--        <dependency>-->
-<!--            <groupId>cn.iocoder.cloud</groupId>-->
-<!--            <artifactId>yudao-module-oa-server</artifactId>-->
 <!--            <version>${revision}</version>-->
 <!--        </dependency>-->
 
